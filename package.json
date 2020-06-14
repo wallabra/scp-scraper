@@ -1,0 +1,12 @@
+{
+  "name": "scp-scraper",
+  "version": "0.1.0",
+  "description": "SCP scraping example.",
+  "main": "index.js",
+  "author": "Gustavo Rehermann <rehermann6046@gmail.com> <contact@gustavo6046.cf>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
+}
