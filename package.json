@@ -1,6 +1,6 @@
 {
   "name": "scp-scraper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SCP scraping example.",
   "main": "index.js",
   "author": "Gustavo Rehermann <rehermann6046@gmail.com> <contact@gustavo6046.cf>",
